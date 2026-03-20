@@ -1,5 +1,3 @@
-package com.mycompany.memberlibrary;
-
 public abstract class Member {
 
     //instance variables 

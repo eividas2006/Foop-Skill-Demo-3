@@ -1,0 +1,49 @@
+
+package com.mycompany.loanclassforfoop;
+
+public class Loan {
+    
+    //Instance variables 
+    Member member; 
+    Book book;
+    
+   
+    public Loan(Member member, Book book){
+        
+        
+        if (!book.isAvailable()) { 
+            throw new IllegalStateException("Book is not available."); 
+        } 
+  
+
+        if (!member.canBorrow()) { 
+            throw new IllegalStateException("Borrow limit reached."); 
+        } 
+
+        //Initialise member  
+        this.member = member;
+        
+       // Initialise book 
+       this.book = book;
+       
+        //Set book availability to false   
+        book.setAvailable(false);
+        
+       //Increment member borrowed books 
+       member.incrementBorrowedBooks();
+        
+    }//end method
+
+    public String getLoanDetails(){
+
+        return  "Loan details..." + "Member name: "+member.getName() +
+                "Book name: "+book.getTitle() + "Book ID: "+book.getIsbn();
+        //return null;
+
+
+    
+    }//end method
+    
+    
+    
+}//end class

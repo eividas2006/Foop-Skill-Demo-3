@@ -21,4 +21,11 @@ Student & Staff member max - Zeeshan
 
 All original code was uploaded to Github as it is needed when submitting the program to moodle,
 The original skeleton of the code has to be submitted aswell alongside the main program, 
-Skeleton base can be found in Main code/original files
+Can all be found below - 
+
++[Book.java](Book.java) 
++[LibraryItem.java](LibraryItem.java) 
++[Loan.Java](Loan.java) 
++[Member.java](Member.java) 
++[StaffMember.java](StaffMember.java) 
++[StudentMember.java](StudentMember.java) 

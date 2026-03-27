@@ -21,11 +21,4 @@ Student & Staff member max - Zeeshan
 
 All original code was uploaded to Github as it is needed when submitting the program to moodle,
 The original skeleton of the code has to be submitted aswell alongside the main program, 
-Can all be found below - 
-
-+[Book.java](Book.java) 
-+[LibraryItem.java](LibraryItem.java) 
-+[Loan.Java](Loan.java) 
-+[Member.java](Member.java) 
-+[StaffMember.java](StaffMember.java) 
-+[StudentMember.java]([StudentMember.java](https://github.com/eividas2006/Foop-Skill-Demo-3/blob/main/Main%20code/original%20files/StudentMember.java)
+find them in Main Code / Original Files

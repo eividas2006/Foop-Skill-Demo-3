@@ -28,4 +28,4 @@ Can all be found below -
 +[Loan.Java](Loan.java) 
 +[Member.java](Member.java) 
 +[StaffMember.java](StaffMember.java) 
-+[StudentMember.java]([StudentMember.java](https://github.com/eividas2006/Foop-Skill-Demo-3/blob/main/Main%20code/original%20files/StudentMember.java)) 
++[StudentMember.java]([StudentMember.java](https://github.com/eividas2006/Foop-Skill-Demo-3/blob/main/Main%20code/original%20files/StudentMember.java)

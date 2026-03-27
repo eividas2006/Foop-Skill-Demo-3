@@ -15,8 +15,9 @@ Loan - Adam
 Student & Staff member max - Zeeshan
 
 =============================================
-              
-              !IMPORTANT!
+
+IMPORTANT!
+ 
 
 All original code was uploaded to Github as it is needed when submitting the program to moodle,
 The original skeleton of the code has to be submitted aswell alongside the main program, 

@@ -133,6 +133,7 @@ public class LibraryConsole {
     private static void addBook() {
         System.out.print("Enter Book ID: ");
         int id = scanner.nextInt();
+        scanner.nextLine(); // consume leftover newline
         System.out.print("Enter Title: ");
         String title = scanner.nextLine();
         System.out.print("Enter Author: ");

@@ -1,5 +1,5 @@
 
-package com.mycompany.memberlibrary;
+package com.mycompany.memberlibrary; //package
 
 
 
